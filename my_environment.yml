@@ -1,0 +1,4 @@
+name: mle-env
+channels:
+  - defaults
+prefix: /home/shipra/miniconda3/envs/mle-env
